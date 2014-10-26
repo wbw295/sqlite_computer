@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">商品管理</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_add">添加电脑</string>
+    <string name="label_query">商品列表</string>
+    <string name="label_details">规格详细</string>
+    
+	
+</resources>
